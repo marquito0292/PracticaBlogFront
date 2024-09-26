@@ -1,0 +1,52 @@
+/* src/styles/PostList.css */
+div {
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #3498db;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-bottom: 20px;
+    display: inline-block;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  /* src/styles/PostList.css */
+
+table {
+    margin-top: 20px;
+  }
+  
+  .btn {
+    margin-right: 5px;
+  }
+  
